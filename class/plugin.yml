@@ -1,0 +1,9 @@
+name: MultiChannel
+main: com.hybris.bukkit.multichannel.MultiChannel
+version: 1.1
+website: 
+author: Hybris95
+description: 
+             MultiChannel plugin allows users to create manage and speak into channels
+             MultiChannel is also compatible with Party (which is optional)
+             Credits to FloydATC for the great inspiration he gave me
